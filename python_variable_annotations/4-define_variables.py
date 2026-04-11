@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Annotated module-level variables (int, float, bool, str)."""
 
 
 a: int = 1
